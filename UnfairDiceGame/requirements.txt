@@ -1,0 +1,12 @@
+ipython
+ipython-genutils
+ipywidgets
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+jupyterlab
+jupyterlab-server
+matplotlib
+
+

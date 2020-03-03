@@ -4,3 +4,4 @@ matplotlib
 numpy
 qgrid
 tqdm
+cufflinks

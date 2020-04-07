@@ -1,0 +1,7 @@
+h5py
+pandas
+matplotlib
+numpy
+qgrid
+tqdm
+cufflinks

@@ -1,0 +1,14 @@
+Notes on Mathematics of Sound.
+
+May 2020
+
+Derived from the Callysto notebook.
+
+Run in Anaconda on Mac, in order to use SlideShow.
+- launch JupyterFull_P38 environment
+- launch JupyterLab (2.0.1) as the notebook one doesn't wrk.
+- switch to the "tree" version by changing the http address
+
+Needed to install ffmpeg in the Anaconda environment called JupytreFull_P38 to get the animations to work. 
+
+

@@ -1,4 +1,4 @@
-## Graphing Real-World Data in Graded 5 - 12
+## Graphing Real-World Data in Grades 5 - 12
 
 May 14 2020
 

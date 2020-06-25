@@ -1,0 +1,2 @@
+Warning 1: libXML: 0: Element 'Field', attribute 'name': [facet 'minLength'] The value '' has a length of '0'; this underruns the allowed minimum length of '1'.
+Warning 1: libXML: 0: Element 'Field', attribute 'name': '' is not a valid value of the atomic type 'nonEmptyStringType'.

@@ -1,4 +1,6 @@
-# Presentation material for Blended Digital Ed Conference https://blended2020.sched.com/ 
+# Presentation material for Blended Digital Ed Conference 
+
+Conference page https://blended2020.sched.com/ 
 
 ## Presenter: Laura Gutierrez Funderburk
 

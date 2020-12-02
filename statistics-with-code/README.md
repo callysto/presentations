@@ -1,4 +1,4 @@
-## Converge Conference 2020
+## Convergence Conference 2020
 
 Learn more about it here https://www.convergenceconference.ca/about
 

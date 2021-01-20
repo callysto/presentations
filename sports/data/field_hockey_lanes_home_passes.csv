@@ -1,0 +1,61 @@
+Team,Action,Quarter,Lane,Count
+home,pass received,first,left outer,14
+home,pass received,first,left inner,10
+home,pass received,first,inner,5
+home,pass received,first,right inner,7
+home,pass received,first,right outer,13
+home,pass received,second,left outer,13
+home,pass received,second,left inner,3
+home,pass received,second,inner,5
+home,pass received,second,right inner,5
+home,pass received,second,right outer,6
+home,pass received,third,left outer,10
+home,pass received,third,left inner,3
+home,pass received,third,inner,4
+home,pass received,third,right inner,9
+home,pass received,third,right outer,16
+home,pass received,fourth,left outer,7
+home,pass received,fourth,left inner,3
+home,pass received,fourth,inner,6
+home,pass received,fourth,right inner,5
+home,pass received,fourth,right outer,8
+home,pass intercepted,first,left outer,1
+home,pass intercepted,first,left inner,2
+home,pass intercepted,first,inner,0
+home,pass intercepted,first,right inner,3
+home,pass intercepted,first,right outer,2
+home,pass intercepted,second,left outer,2
+home,pass intercepted,second,left inner,1
+home,pass intercepted,second,inner,3
+home,pass intercepted,second,right inner,1
+home,pass intercepted,second,right outer,3
+home,pass intercepted,third,left outer,1
+home,pass intercepted,third,left inner,3
+home,pass intercepted,third,inner,3
+home,pass intercepted,third,right inner,1
+home,pass intercepted,third,right outer,1
+home,pass intercepted,fourth,left outer,0
+home,pass intercepted,fourth,left inner,0
+home,pass intercepted,fourth,inner,2
+home,pass intercepted,fourth,right inner,0
+home,pass intercepted,fourth,right outer,0
+home,pass missed,first,left outer,4
+home,pass missed,first,left inner,2
+home,pass missed,first,inner,0
+home,pass missed,first,right inner,1
+home,pass missed,first,right outer,2
+home,pass missed,second,left outer,2
+home,pass missed,second,left inner,1
+home,pass missed,second,inner,0
+home,pass missed,second,right inner,0
+home,pass missed,second,right outer,2
+home,pass missed,third,left inner,0
+home,pass missed,third,left outer,1
+home,pass missed,third,inner,0
+home,pass missed,third,right inner,2
+home,pass missed,third,right outer,0
+home,pass missed,fourth,left outer,1
+home,pass missed,fourth,left inner,0
+home,pass missed,fourth,inner,0
+home,pass missed,fourth,right inner,1
+home,pass missed,fourth,right outer,1

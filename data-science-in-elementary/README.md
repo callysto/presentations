@@ -1,0 +1,3 @@
+# Introduction to Data Science and Big Data For Educators
+
+The ability to critically analyse large sets of data is becoming increasingly important, and there are many applications in education. We will introduce participants to the fundamentals of data science, and look at how you can incorporate data science into your teaching. You will come away with an increased understanding of this topic as well as some practical activities to use in your learning environment.

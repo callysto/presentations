@@ -1,8 +1,12 @@
-## Convergence Conference 2020
+## Teachers conferences talk on stats, 2020 and 2021
+
+Initial development by Laura Gutierrez Funderburk for Convergence Conference 2020
 
 Learn more about it here https://www.convergenceconference.ca/about
 
-Presenter: Laura Gutierrez Funderburk
+Updated for 2021 conferences. 
+
+Presenters: Laura Gutierrez Funderburk, Michael Lamoureux
 
 Starter kit, interact with Callysto material: https://www.callysto.ca/starter-kit/ 
 
